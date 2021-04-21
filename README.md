@@ -1,5 +1,6 @@
 ### Hello there <img src="https://emoji.gg/assets/emoji/7190-wavingblob.gif" width="30px" padding-top="-20"> I'm Jorkaef Jarez and this is my profile!
-<img src="https://emoji.gg/assets/emoji/8115_arrow_white.gif" width="30px">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyEPm_n8DS7GA1LnoBYmBhg?style=social)
+---
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyEPm_n8DS7GA1LnoBYmBhg?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jorkaeffdev?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/JorkDev?style=social)
 <!--

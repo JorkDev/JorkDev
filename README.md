@@ -1,5 +1,5 @@
 ### Hello there <img src="https://emoji.gg/assets/emoji/7190-wavingblob.gif" width="30px" padding-top="-20"> I'm Jorkaef Jarez and this is my profile!
-
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyEPm_n8DS7GA1LnoBYmBhg?style=social)
 <!--
 **JorkDev/JorkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

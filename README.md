@@ -1,4 +1,4 @@
-### Hello there! <img src="https://emoji.gg/assets/emoji/4766_kitty_wave.png"> I'm Jorkaef Jarez
+### Hello there! <img src="https://emoji.gg/assets/emoji/4766_kitty_wave.png" width="30px"> I'm Jorkaef Jarez
 
 <!--
 **JorkDev/JorkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

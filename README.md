@@ -1,4 +1,4 @@
-### Hello there <img src="https://emoji.gg/assets/emoji/7190-wavingblob.gif" width="30px"> I'm Jorkaef Jarez and this is my profile!
+### Hello there <img src="https://emoji.gg/assets/emoji/7190-wavingblob.gif" width="20px"> I'm Jorkaef Jarez and this is my profile!
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyEPm_n8DS7GA1LnoBYmBhg?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jorkaeffdev?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/JorkDev?style=social)
@@ -9,7 +9,7 @@ I'm a Software Technician, specialized in Web Development and in the process of 
 Also, I'm into 3D Modeling, you can see my art down here in my portolio.
 
 ---
-<img src="https://emoji.gg/assets/emoji/9974_blobnerd.png" width="30px"> My Skills
+<img src="https://emoji.gg/assets/emoji/9974_blobnerd.png" width="20px"> My Skills
 ---
 
 <!--

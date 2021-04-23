@@ -1,4 +1,4 @@
-### Hello there <img src="https://emoji.gg/assets/emoji/7190-wavingblob.gif" width="20px" height="20px"> I'm Jorkaef Jarez and this is my profile!
+### Hello there <img src="https://emoji.gg/assets/emoji/7190-wavingblob.gif" width="25px" height="25px"> I'm Jorkaef Jarez and this is my profile!
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyEPm_n8DS7GA1LnoBYmBhg?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jorkaeffdev?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/JorkDev?style=social)

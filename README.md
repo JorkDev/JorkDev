@@ -8,6 +8,10 @@ I'm a Software Technician, specialized in Web Development and in the process of 
 
 Also, I'm into 3D Modeling, you can see my art down here in my portolio.
 
+---
+<img src="https://emoji.gg/assets/emoji/9974_blobnerd.png" width="30px"> My Skills
+---
+
 <!--
 **JorkDev/JorkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

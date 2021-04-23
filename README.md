@@ -12,7 +12,9 @@ Also, I'm into 3D Modeling, you can see my art down here in my portolio.
 <img src="https://emoji.gg/assets/emoji/9974_blobnerd.png" width="30px"> My Skills
 ---
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?short_path=40a8919" alt="Javascript Logo" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?short_path=40a8919" alt="Javascript Logo" width="50px" height="50px"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50px" height="50px">
+<img src="" alt="" width="50px" height="50px">
+
 <!--
 **JorkDev/JorkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

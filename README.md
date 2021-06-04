@@ -6,8 +6,6 @@
 
 I'm a Software Technician, specialized in Web Development and in the process of training with Python.
 
-Also, I'm into 3D Modeling, you can see my art down here in my portolio.
-
 ---
 <img src="https://emoji.gg/assets/emoji/9974_blobnerd.png" width="30px"> My Skills
 ---

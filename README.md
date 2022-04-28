@@ -21,7 +21,7 @@ I'm a Software Technician, it means that I'm always ready to work. I'm specializ
       databases: ["MySql", "FireBase", "MongoDB"],
       versionControl: ["Git"]
     },
-    tools: ["VsCode", "Photoshop", "Debian", "Notepad ++"],
+    tools: ["VsCode", "Photoshop", "Postman", "Illustrator", "Figma"],
     OS: ["Arch Linux x86_64"],
     role: ["Junior Developer"],
     nextGoal: "Finish college and have my own business"

@@ -3,23 +3,26 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/jorkaeffdev?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/JorkDev?style=social)
 ---
-
-I'm a Software Technician, specialized in Web Development and in the process of training with Python.
-
+I'm a Software Technician, it means that I'm always ready to work. I'm specialized in Web Development using the latest technologies to achieve the best coding practices.
 ---
-
-
-<!--
-**JorkDev/JorkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+  const birthDate = new Date("11/23/2001").getTime();
+  const currDate = new Date().getTime();
+  const age = Math.floor((birthDate - currDate) / 31536000000);
+  const moreAboutMe = {
+    locatedIn: {
+      country: "Colombia",
+      city: "Bogotá"
+    },
+    age: `${age} years old`,
+    techStack: {
+      frontEnd: ["HTML", "CSS", "Javascript", "Jquery","Bootstrap"],
+      backend: ["PHP"],
+      databases: ["MySql"],
+      versionControl: ["Git"]
+    },
+    tools: ["VsCode", "Photoshop", "Debian", "Notepad ++"],
+    role: ["Junior Frontend Developer", "Junior Developer"],
+    nextGoal: "Go to university 🤩"
+  }
+```

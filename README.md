@@ -11,6 +11,7 @@ I'm a Software Technician, it means that I'm always ready to work. I'm specializ
       country: "Perú",
       city: "Lima"
     },
+    pronouns: ["he", "him"]
     age: `${age} years old`,
     techStack: {
       frontEnd: ["HTML", "CSS", "Javascript", "Angular","Bootstrap", "ReactJS", "Tailwind"],

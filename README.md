@@ -18,7 +18,7 @@ I'm a Software Technician, it means that I'm always ready to work. I'm specializ
     techStack: {
       frontEnd: ["HTML", "CSS", "Javascript", "Angular","Bootstrap", "ReactJS", "Tailwind"],
       backend: ["NodeJS", "Laravel", "ExpressJS"],
-      databases: ["MySql", "FireBase, "MongoDB"],
+      databases: ["MySql", "FireBase", "MongoDB"],
       versionControl: ["Git"]
     },
     tools: ["VsCode", "Photoshop", "Debian", "Notepad ++"],

@@ -1,3 +1,4 @@
+###Hello there coder! 🤓
 ---
 I'm a Software Technician, it means that I'm always ready for work. I'm specialized in Web Development, using the latest technologies to achieve the best practices.
 Working remotely since 2020. 🚀

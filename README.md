@@ -41,3 +41,9 @@ Working remotely since 2020. 🚀
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+	
+- 🔭 I’m currently working with **React**, **Bootstrap**, **Ionic**, **React-Native**, **mongoDB**, **postgresDB**, **Python**.
+- 🌱 I’m currently learning **Java 8**, **Docker**, **PostgreSQL**, **AWS** and **Typescript**.
+- 👯 I’m looking to collaborate on innovated projects.
+- 📫 How to reach me: [All my social links is here ♥](https://linktr.ee/jorkaefdev)
+- 😇 About me: Focused, learn, adventour, explorer, catlover, musician, artist

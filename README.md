@@ -4,6 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/JorkDev?style=social)
 ---
 I'm a Software Technician, it means that I'm always ready to work. I'm specialized in Web Development using the latest technologies to achieve the best coding practices.
+**Working remotely since 2020**
 ---
 ```javascript
   const birthDate = new Date("11/22/1998").getTime();

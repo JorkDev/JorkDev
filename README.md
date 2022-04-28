@@ -8,7 +8,7 @@ I'm a Software Technician, it means that I'm always ready to work. I'm specializ
 ```javascript
   const birthDate = new Date("11/22/1998").getTime();
   const currDate = new Date().getTime();
-  const age = Math.floor((birthDate - currDate) / 31536000000);
+  const age = Math.floor((currDate - birthDate) / 31536000000);
   const moreAboutMe = {
     locatedIn: {
       country: "Perú",

@@ -1,4 +1,7 @@
-<h1 align="center">Hello there coder! 🤓</h1>
+---
+I'm a Software Technician, it means that I'm always ready for work. I'm specialized in Web Development, using the latest technologies to achieve the best practices.
+Working remotely since 2020. 🚀
+---
 ```javascript
   const birthDate = new Date("11/22/1998").getTime();
   const currDate = new Date().getTime();

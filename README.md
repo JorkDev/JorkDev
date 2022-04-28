@@ -1,4 +1,8 @@
-###Hello there coder! 🤓
+### Hello there <img src="https://emoji.gg/assets/emoji/7190-wavingblob.gif" width="30px"> I'm **Jorkaef Jarez** and this is my profile!
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyEPm_n8DS7GA1LnoBYmBhg?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/jorkaeffdev?style=social)
+![GitHub followers](https://img.shields.io/github/followers/JorkDev?style=social)
+
 ---
 I'm a Software Technician, it means that I'm always ready for work. I'm specialized in Web Development, using the latest technologies to achieve the best practices.
 Working remotely since 2020. 🚀

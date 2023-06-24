@@ -13,7 +13,7 @@ Working remotely since 2020. 🚀
       city: "Lima"
     },
     pronouns: ["he", "him"],
-    age: `${age} years old`,
+    age: Number(age) + " years old",
     techStack: {
       frontEnd: ["HTML", "CSS", "Javascript", "Angular","Bootstrap", "ReactJS", "Tailwind"],
       backend: ["NodeJS", "Laravel", "ExpressJS"],

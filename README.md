@@ -45,5 +45,4 @@ Working remotely since 2020. 🚀
 - 🔭 I’m currently working with **Javascript**, **React**, **Bootstrap**, **Ionic**, **React-Native**, **mongoDB**, **postgresDB**, **Python**.
 - 🌱 I’m currently learning **Java 8**, **Docker**, **PostgreSQL**, **AWS** and **Typescript**.
 - 👯 I’m looking to collaborate on innovated projects.
-- 📫 How to reach me: [All my social links is here ♥](https://linktr.ee/jorkaefdev)
 - 😇 About me: Focused, learn, adventour, explorer, catlover, musician, artist

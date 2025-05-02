@@ -1,6 +1,6 @@
 <h1 align="center">Hello there coder! 🤓</h1>
 
-I'm a Software Technician, it means that I'm always ready for work. I'm specialized in Web Development, using the latest technologies to achieve the best practices.
+I'm a Software Engineer, it means that I'm always ready for work. I'm specialized in development and analysis, using the latest technologies to achieve the best practices.
 Working remotely since 2020. 🚀
 
 ```javascript

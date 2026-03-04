@@ -1,6 +1,6 @@
 <h1 align="center">Hello there coder! 🤓</h1>
 
-I'm a **Software Engineer and System Analyst**. I design and build end-to-end solutions — from **requirements & process analysis** to **implementation, testing, and delivery** — using modern technologies and clean, maintainable practices.  
+My name is Jorkaef and I am a **Software Engineer and System Analyst**. I design and build end-to-end solutions — from **requirements & process analysis** to **implementation, testing, and delivery** — using modern technologies and clean, maintainable practices.  
 Working remotely since 2020 — coding since `console.log('Hello, world!')` felt like magic. 🚀
 
 ```javascript

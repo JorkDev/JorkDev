@@ -1,48 +1,82 @@
 <h1 align="center">Hello there coder! 🤓</h1>
 
-I'm a Software Engineer, it means that I'm always ready for work. I'm specialized in development and analysis, using the latest technologies to achieve the best practices.
-Working remotely since 2020. 🚀
+I'm a **Software Engineer and System Analyst**. I design and build end-to-end solutions — from **requirements & process analysis** to **implementation, testing, and delivery** — using modern technologies and clean, maintainable practices.  
+Working remotely since 2020 — coding since `console.log('Hello, world!')` felt like magic. 🚀
 
 ```javascript
   const birthDate = new Date("11/22/1998").getTime();
   const currDate = new Date().getTime();
   const age = Math.floor((currDate - birthDate) / 31536000000);
+
   const moreAboutMe = {
     locatedIn: {
-      country: "Perú",
+      country: "Peru",
       city: "Lima"
     },
     pronouns: ["he", "him"],
-    age: Number(age) + " years old",
+    age: `${age} years old`,
+    specialties: [
+      "System analysis (requirements, user stories, documentation)",
+      "Process modeling (BPMN/UML)",
+      "API design & integrations (REST, OpenAPI/Swagger)",
+      "Web engineering (frontend + backend)",
+      "Data modeling & SQL"
+    ],
     techStack: {
-      frontEnd: ["HTML", "CSS", "Javascript", "Angular","Bootstrap", "ReactJS", "Tailwind"],
-      backend: ["NodeJS", "Laravel", "ExpressJS"],
-      databases: ["MySql", "FireBase", "MongoDB"],
+      languages: ["TypeScript", "Python", "SQL", "Java (8+)"],
+      frontend: ["React", "Angular", "Ionic", "React Native"],
+      backend: ["Node.js", "Express.js", "Laravel", "DJango"],
+      databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
+      cloudDevOps: ["Docker", "AWS", "Linux", "GitHub Actions"],
+      testing: ["Jest", "Postman/Newman", "Cypress"],
       versionControl: ["Git"]
     },
-    tools: ["VsCode", "Photoshop", "Postman", "Illustrator", "Figma"],
+    tools: [
+      "VS Code",
+      "Postman",
+      "Docker",
+      "Swagger / OpenAPI",
+      "Jira",
+      "Confluence",
+      "draw.io",
+      "GitHub Actions"
+    ],
     OS: ["Arch Linux x86_64"],
-    role: ["Junior Developer"],
-    nextGoal: "Finish college and have my own business"
+    role: ["Software Engineer", "System Analyst", "Web Engineer"],
+    nextGoal: "Finish college and build my own business"
   }
 ```
+
 <h2>Skills and Tools: </h2>
+
 <p align="center">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/babel.png" alt=babel width="60" height="60"/>
- 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-	
-- 🔭 I’m currently working with **Javascript**, **React**, **Bootstrap**, **Ionic**, **React-Native**, **mongoDB**, **postgresDB**, **Python**.
-- 🌱 I’m currently learning **Java 8**, **Docker**, **PostgreSQL**, **AWS** and **Typescript**.
-- 👯 I’m looking to collaborate on innovated projects.
-- 😇 About me: Focused, learn, adventour, explorer, catlover, musician, artist
+  <!-- Languages -->
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="55" height="55"/>
+
+  <!-- Backend -->
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="55" height="55"/>
+
+  <!-- Databases -->
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
+
+  <!-- DevOps / Cloud -->
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
+
+  <!-- Tools -->
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="55" height="55"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="55" height="55"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="55" height="55"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="55" height="55"/>
+</p>
+
+- 🔭 I’m currently working on **requirements & system analysis**, **API-driven systems**, and **web/mobile delivery** using **TypeScript/JavaScript**, **Node.js**, **React/Ionic**, **PostgreSQL**, **MongoDB**, and **Python**.
+- 🌱 I’m currently working on my skills with **AWS**, **Docker**, **CI/CD**, **testing** (unit + E2E), and **system design**.
+- 👯 I’m looking to collaborate on **innovative, product-focused** projects: clear requirements, solid architecture, and measurable impact.
+- 😇 About me: Focused, curious, always learning, adventurous explorer, cat lover, musician, artist.
